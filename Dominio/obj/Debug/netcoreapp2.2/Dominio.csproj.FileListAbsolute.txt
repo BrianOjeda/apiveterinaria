@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\bin\Debug\netcoreapp2.2\Dominio.deps.json
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\bin\Debug\netcoreapp2.2\Dominio.dll
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\obj\Debug\netcoreapp2.2\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\obj\Debug\netcoreapp2.2\Dominio.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\obj\Debug\netcoreapp2.2\Dominio.AssemblyInfo.cs
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\obj\Debug\netcoreapp2.2\Dominio.csprojAssemblyReference.cache
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\bin\Debug\netcoreapp2.2\Dominio.runtimeconfig.json
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\bin\Debug\netcoreapp2.2\Dominio.runtimeconfig.dev.json
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\bin\Debug\netcoreapp2.2\Dominio.pdb
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\obj\Debug\netcoreapp2.2\Dominio.dll
+C:\Users\brian\Documents\cursoApiRest.Net\VeterianariaApi\Dominio\obj\Debug\netcoreapp2.2\Dominio.pdb
